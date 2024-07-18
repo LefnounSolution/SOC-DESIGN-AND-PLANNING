@@ -1,5 +1,5 @@
 # SOC-DESIGN-AND-PLANNING
-# nasscom-vsd-soc-design-program
+
 # Contents
 1) Day-1: [Inception of open-source EDA, OpenLANE and Sky130 PDK](https://github.com/LefnounSolution/SOC-DESIGN-AND-PLANNING/blob/main/README.md#inception-of-open-source-eda-openlane-and-sky130-pdk)
     - [How to talk to computers](https://github.com/LefnounSolution/SOC-DESIGN-AND-PLANNING/blob/main/README.md#how-to-talk-to-computers)
